@@ -1,0 +1,54 @@
+.dropbtn {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    width: 100%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align:center;
+    cursor:pointer;
+
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently
+    supported by Chrome, Edge, Opera and Firefox */
+}
+
+.dropdown-content a:hover {background-color: #ddd}
+
+.show {display:block;}
+
+
+#video-player{
+    background-color:black;
+    margin:auto;
+}
+
+#player-wrapper{
+    width:100%;
+    display:flex;
+    margin-bottom:20px;
+}
