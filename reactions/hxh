@@ -34,46 +34,22 @@
                 <div class="inner">
 
                     <div id="player-wrapper">
-                        <iframe id="video-player" img src="../images/One Piece Reaction Thumbnail 1.jpg" width="1280" height="720" allow="fullscreen"></iframe>
+                        <iframe id="video-player" img src="../images/Hunter X Hunter Reaction Thumbnail.jpg" width="1280" height="720" allow="fullscreen"></iframe>
                     </div>
                     <div class="dropdown">
-                    <button onclick="toggleDropdown(this)" class="dropbtn">Episode 490</button>
+                    <button onclick="toggleDropdown(this)" class="dropbtn">Episode 68 69 70</button>
                      <div class="dropdown-content">
-                            <a onclick='setVideo("https://www.bitchute.com/embed/7t3NiD9Rjxot/")'>Bitchute</a>
-                            <a onclick='setVideo("https://drive.google.com/file/d/1aCmDFnemdOVtjU6xw8HVg2FYxc7w3BaI/preview")'>Google Drive 1</a>
-                            <a onclick='setVideo("https://drive.google.com/file/d/1CdjLhHRGUXSFDOpRHA12OVIB4auwSQYL/preview")'>Google Drive 2</a>
-                            <a onclick='setVideo("https://drive.google.com/file/d/1i44mQ3K0gBgBZ3p1RxlWIBdwgaIklMiQ/preview")'>Google Drive 3</a>
+                            <a onclick='setVideo("https://www.bitchute.com/embed/4WMcht4q7GoV/")'>Bitchute</a>
+                            <a onclick='setVideo("https://drive.google.com/file/d/1EvE_0KS-dMfT4wXMm0ByBKxiFdGsBqLv/preview")'>Google Drive 1</a>
                                   </div>
-                                </div>  
-                    
-                    <div class="dropdown">
-                    <button onclick="toggleDropdown(this)" class="dropbtn">Episode 491</button>
-                     <div class="dropdown-content">
-                            <a onclick='setVideo("https://www.bitchute.com/embed/9JUWS5rqtElY/")'>Bitchute</a>
-                            <a onclick='setVideo("https://drive.google.com/file/d/19SV_YMcuVMPIvbAQoXw8xDjejSA9i59D/preview")'>Google Drive 1</a>
-                            <a onclick='setVideo("https://drive.google.com/file/d/1yU3xz-wch0bv00t084GL8bIXXzyliCcI/preview")'>Google Drive 2</a>
-                            <a onclick='setVideo("https://drive.google.com/file/d/1bWa6R4n77Qb-R60lKZrk0qKzicdiZ6zu/preview")'>Google Drive 3</a>
-                                  </div>
-                                </div>
-                                       
-                    <div class="dropdown">
-                    <button onclick="toggleDropdown(this)" class="dropbtn">Episode 493</button>
-                     <div class="dropdown-content">
-                            <a onclick='setVideo("https://www.bitchute.com/embed/7hgDOkWjohYJ/")'>Bitchute</a>
-                            <a onclick='setVideo("https://drive.google.com/file/d/1x2LEgaHtC99v8DkTNKfY4olIYUFxXSl3/preview")'>Google Drive 1</a>
-                            <a onclick='setVideo("https://drive.google.com/file/d/1JFTX6Pe0gq8KTbMpqjOuXjbrNQa_3bDY/preview")'>Google Drive 2</a>
-                            <a onclick='setVideo("https://drive.google.com/file/d/196sXg3SXX5sj7vAGVmewBvCRsP0eBKko/preview")'>Google Drive 3</a>
-                                  </div>
-                                </div>
+                               </div>                                      
                    <br><b>BitChute Direct:</b><br>                          
-                    <a href="https://www.bitchute.com/video/7t3NiD9Rjxot/">BitChute Episode 490</a><br>
-                    <a href="https://www.bitchute.com/video/9JUWS5rqtElY/">BitChute Episode 491</a><br>
-                    <a href="https://www.bitchute.com/video/7hgDOkWjohYJ/">BitChute Episode 493</a><br> 
+                    <a href="https://www.bitchute.com/video/4WMcht4q7GoV/">BitChute Episode 490</a><br>
+
                     
                     <br><b>Wanna Support Me A Bit More? Use This AdFly Link:</b><br>
-                    <a href="http://j.gs/23698227/op4-episode-490">AdFly BitChute Episode 490</a><br>
-                    <a href="http://j.gs/23698227/op4-episode-491">AdFly BitChute Episode 491</a><br>
-                    <a href="http://j.gs/23698227/op4-episode-493">AdFly BitChute Episode 493</a><br>
+                    <a href="http://j.gs/23698227/hxh-episode-68-69-70">AdFly BitChute Episode 490</a><br>
+
                     
                     
                        
