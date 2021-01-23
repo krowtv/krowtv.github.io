@@ -29,29 +29,34 @@
     <link rel="canonical" href="index.html">
     <meta property="og:url" content="index.html">
   </head>
-  <body class="u-body"><header class="u-clearfix u-header u-image u-header" id="sec-ebfc" data-image-width="1920" data-image-height="1080"><div class="u-clearfix u-sheet u-sheet-1">
-        <nav class="u-align-left u-menu u-menu-dropdown u-nav-spacing-25 u-offcanvas-shift u-menu-1" data-responsive-from="XL">
-          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700;">
-            <a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-grey-90" href="#" style="font-size: calc(1em + 8px);">
-              <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 302 302" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-7b92"></use></svg>
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-7b92" x="0px" y="0px" viewBox="0 0 302 302" style="enable-background:new 0 0 302 302;" xml:space="preserve" class="u-svg-content"><g><rect y="36" width="302" height="30"></rect><rect y="236" width="302" height="30"></rect><rect y="136" width="302" height="30"></rect>
-</g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+  <body class="u-body"><header class="u-clearfix u-header u-image u-header" id="sec-ebfc" data-image-width="1920" data-image-height="1080"><div class="u-clearfix u-sheet u-valign-top u-sheet-1">
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
+            <a class="u-border-2 u-border-active-white u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-nav-link u-radius-10 u-text-active-white u-text-grey-90 u-text-hover-palette-1-light-1" href="#">
+              <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</symbol>
+</defs></svg>
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="Main.html" style="padding: 10px;">Main</a>
-</li><li class="u-nav-item"><a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="Reactions.html" style="padding: 10px;">Reactions</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="Ongoing-Series.html">Ongoing Series</a>
+            <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-white u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-radius-10 u-text-active-white u-text-grey-90 u-text-hover-palette-1-light-1" href="Main.html" style="padding: 10px 0px;">Main</a>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-white u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-radius-10 u-text-active-white u-text-grey-90 u-text-hover-palette-1-light-1" href="Reactions.html" style="padding: 10px 0px;">Reactions</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="Ongoing-Series.html">Ongoing Series</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="One-Piece.html">One Piece</a>
+</li></ul>
+</div>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="Completed-Series.html">Completed Series</a>
 </li></ul>
 </div>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
-            <div class="u-align-center u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Main.html" style="padding: 10px;">Main</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Reactions.html" style="padding: 10px;">Reactions</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Ongoing-Series.html">Ongoing Series</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Main.html" style="padding: 10px 0px;">Main</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Reactions.html" style="padding: 10px 0px;">Reactions</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-5"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Ongoing-Series.html">Ongoing Series</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-6"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="One-Piece.html">One Piece</a>
+</li></ul>
+</div>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Completed-Series.html">Completed Series</a>
 </li></ul>
 </div>

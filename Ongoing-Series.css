@@ -8,6 +8,10 @@
   font-size: 6rem;
   text-shadow: -1px 5px 0px rgba(146,228,253,1);
   margin: 44px auto;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 0;
 }.u-section-2 .u-sheet-1 {
   min-height: 242px;
 }
