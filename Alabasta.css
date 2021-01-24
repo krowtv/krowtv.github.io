@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 92px;
+  min-height: 78px;
 }
 
 .u-section-1 .u-text-1 {
@@ -7,12 +7,38 @@
   font-family: "Bebas Neue";
   letter-spacing: 3px;
   animation-duration: 1000ms;
-  margin: 20px;
+  margin: 20px 20px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: -48px auto 0 172px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: -42px 172px 10px auto;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
     margin-right: 0;
   }
 }.u-section-2 .u-sheet-1 {
