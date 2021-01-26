@@ -81,6 +81,10 @@
   margin: -134px 180px 60px 692px;
 }
 
+.u-section-2 .u-btn-1 {
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-2 .u-text-1 {
     margin-right: 525px;
@@ -177,6 +181,7 @@
   letter-spacing: 2px;
   font-size: 3.75rem;
   width: 333px;
+  animation-duration: 1000ms;
   margin: 0 auto;
 }
 
