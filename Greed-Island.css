@@ -1,5 +1,13 @@
 .u-section-1 .u-sheet-1 {
   min-height: 300px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 100%;
+  left: 0%;
+  height: 770%;
+  top: -335%;
 }.u-section-2 .u-sheet-1 {
   min-height: 78px;
 }

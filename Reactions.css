@@ -12,6 +12,14 @@
 
 .u-section-1 .u-btn-1 {
   padding: 0;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 100%;
+  left: 0%;
+  height: 910%;
+  top: -405%;
 }.u-section-2 .u-sheet-1 {
   min-height: 242px;
 }
@@ -27,4 +35,12 @@
 
 .u-section-2 .u-btn-1 {
   padding: 0;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+  width: 100%;
+  left: 0%;
+  height: 910%;
+  top: -405%;
 }

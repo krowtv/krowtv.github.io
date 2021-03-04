@@ -9,6 +9,14 @@
   text-shadow: 0px 2px 0px rgba(218,255,0,1);
   line-height: 0.4;
   margin: 60px auto;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 100%;
+  left: 0%;
+  height: 910%;
+  top: -405%;
 }.u-section-2 .u-sheet-1 {
   min-height: 242px;
 }
@@ -20,4 +28,12 @@
   text-shadow: 0px 2px 0px rgba(219,132,15,1);
   line-height: 0.2;
   margin: 44px auto;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+  width: 100%;
+  left: 0%;
+  height: 910%;
+  top: -405%;
 }
