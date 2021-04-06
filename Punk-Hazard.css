@@ -83,32 +83,32 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 284px;
+    min-height: 303px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 45px;
+    margin-left: 31px;
   }
 
   .u-section-2 .u-image-3 {
-    margin-right: 0;
+    margin-right: 31px;
   }
 
   .u-section-2 .u-btn-1 {
-    margin-top: 14px;
-    margin-left: 63px;
-  }
-
-  .u-section-2 .u-btn-2 {
-    margin-top: -42px;
+    margin-top: 23px;
+    margin-left: 84px;
   }
 
   .u-section-2 .u-btn-3 {
-    margin-top: -52px;
-    margin-right: 63px;
-    margin-bottom: 60px;
+    margin-right: 94px;
+    margin-bottom: 23px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 521px;
+    min-height: 534px;
   }
 
   .u-section-2 .u-image-2 {
@@ -122,11 +122,9 @@
 
   .u-section-2 .u-btn-1 {
     margin-top: -242px;
-    margin-left: 55px;
   }
 
   .u-section-2 .u-btn-2 {
-    margin-top: -65px;
     margin-right: 58px;
   }
 
@@ -139,25 +137,25 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 504px;
+    min-height: 517px;
   }
 
-  .u-section-2 .u-image-2 {
-    margin-right: auto;
+  .u-section-2 .u-image-1 {
+    margin-left: 0;
   }
 
   .u-section-2 .u-image-3 {
-    margin-top: 85px;
+    margin-top: 94px;
   }
 
   .u-section-2 .u-btn-1 {
-    margin-top: -221px;
+    margin-top: -230px;
     margin-left: 53px;
   }
 
   .u-section-2 .u-btn-3 {
-    margin-top: 165px;
-    margin-bottom: 20px;
+    margin-top: 174px;
+    margin-bottom: 11px;
   }
 }
 
@@ -173,6 +171,7 @@
 
   .u-section-2 .u-image-2 {
     margin-top: 97px;
+    margin-right: auto;
   }
 
   .u-section-2 .u-image-3 {
@@ -250,66 +249,72 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 354px;
+  }
+
   .u-section-3 .u-image-1 {
     margin-top: 58px;
   }
 
   .u-section-3 .u-image-2 {
-    margin-right: 0;
+    margin-top: -147px;
+    margin-right: 28px;
   }
 
   .u-section-3 .u-image-3 {
     width: 261px;
     animation-duration: 1000ms;
-    margin-top: -102px;
+    margin-top: -153px;
+    margin-left: 28px;
   }
 
   .u-section-3 .u-btn-1 {
-    margin-top: -30px;
+    margin-top: 15px;
   }
 
   .u-section-3 .u-btn-2 {
-    margin-top: -42px;
-    margin-right: 63px;
+    margin-top: -59px;
+    margin-right: 86px;
   }
 
   .u-section-3 .u-btn-3 {
-    margin-top: 210px;
-    margin-left: 63px;
+    margin-top: -77px;
+    margin-left: 86px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 542px;
+    min-height: 553px;
   }
 
   .u-section-3 .u-image-1 {
-    margin-right: 0;
+    margin-top: 45px;
+    margin-right: 28px;
   }
 
   .u-section-3 .u-image-2 {
-    margin-top: 95px;
-    margin-right: 40px;
+    margin-top: 93px;
+    margin-right: auto;
   }
 
   .u-section-3 .u-image-3 {
-    margin-top: -389px;
+    margin-top: -388px;
   }
 
   .u-section-3 .u-btn-1 {
-    margin-top: 15px;
-    margin-right: 58px;
+    margin-top: 29px;
+    margin-right: 86px;
   }
 
   .u-section-3 .u-btn-2 {
-    margin-top: 177px;
-    margin-right: 0;
+    margin-top: 175px;
+    margin-right: auto;
   }
 
   .u-section-3 .u-btn-3 {
-    margin-top: -54px;
-    margin-left: 48px;
+    margin-top: -305px;
   }
 }
 
@@ -320,27 +325,29 @@
 
   .u-section-3 .u-image-1 {
     margin-top: 33px;
-    margin-right: auto;
+    margin-right: 0;
   }
 
   .u-section-3 .u-image-2 {
-    margin-top: 88px;
+    margin-top: 95px;
   }
 
   .u-section-3 .u-image-3 {
-    margin-top: -382px;
+    margin-top: -389px;
+    margin-left: 0;
   }
 
   .u-section-3 .u-btn-1 {
     margin-top: 7px;
+    margin-right: 58px;
   }
 
   .u-section-3 .u-btn-2 {
-    margin-top: 170px;
+    margin-top: 179px;
   }
 
   .u-section-3 .u-btn-3 {
-    margin-top: -300px;
+    margin-top: -309px;
     margin-left: 58px;
   }
 }
@@ -352,6 +359,7 @@
 
   .u-section-3 .u-image-1 {
     margin-top: 292px;
+    margin-right: auto;
   }
 
   .u-section-3 .u-image-2 {
@@ -360,6 +368,7 @@
 
   .u-section-3 .u-image-3 {
     margin-top: -717px;
+    margin-left: auto;
   }
 
   .u-section-3 .u-btn-1 {
