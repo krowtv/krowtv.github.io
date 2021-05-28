@@ -34359,7 +34359,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 74px;
+  min-height: 75px;
 }
 
 .u-header .u-image-1 {
@@ -34373,7 +34373,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-menu-1 {
   font-family: size-14;
-  margin: -35px 229px 0 auto;
+  margin: -35px 0 0 auto;
 }
 
 .u-header .u-nav-1 {
@@ -34408,6 +34408,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     width: auto;
+    margin-top: -35px;
     margin-right: 220px;
   }
 
