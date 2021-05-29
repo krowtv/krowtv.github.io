@@ -305,6 +305,7 @@
 
 .u-section-1 .u-accordion-pane-8 {
   background-image: none;
+  min-height: 171px;
 }
 
 .u-section-1 .u-container-layout-8 {
@@ -341,6 +342,7 @@
 
 .u-section-1 .u-accordion-pane-9 {
   background-image: none;
+  min-height: 171px;
 }
 
 .u-section-1 .u-container-layout-9 {
@@ -352,7 +354,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-  margin: 0 auto 0 46px;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-btn-18 {
@@ -377,6 +379,7 @@
 
 .u-section-1 .u-accordion-pane-10 {
   background-image: none;
+  min-height: 171px;
 }
 
 .u-section-1 .u-container-layout-10 {
@@ -388,7 +391,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-  margin: 0 auto 0 46px;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-btn-20 {
@@ -463,15 +466,7 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-btn-17 {
-    margin-left: auto;
-  }
-
   .u-section-1 .u-btn-18 {
-    margin-left: auto;
-  }
-
-  .u-section-1 .u-btn-19 {
     margin-left: auto;
   }
 
@@ -800,7 +795,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-  margin: 0 auto 0 46px;
+  margin: 0 auto;
 }
 
 .u-section-2 .u-btn-4 {
@@ -825,6 +820,7 @@
 
 .u-section-2 .u-accordion-pane-3 {
   background-image: none;
+  min-height: 171px;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -836,7 +832,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-  margin: 0 auto 0 46px;
+  margin: 0 auto;
 }
 
 .u-section-2 .u-btn-6 {
@@ -1104,19 +1100,7 @@
     border-style: none;
   }
 
-  .u-section-2 .u-btn-3 {
-    margin-left: auto;
-  }
-
   .u-section-2 .u-btn-4 {
-    margin-left: auto;
-  }
-
-  .u-section-2 .u-accordion-pane-3 {
-    min-height: 171px;
-  }
-
-  .u-section-2 .u-btn-5 {
     margin-left: auto;
   }
 
@@ -1198,16 +1182,8 @@
     margin-left: 25px;
   }
 
-  .u-section-2 .u-btn-3 {
-    margin-left: 46px;
-  }
-
   .u-section-2 .u-btn-4 {
     margin-left: 68px;
-  }
-
-  .u-section-2 .u-btn-5 {
-    margin-left: 46px;
   }
 
   .u-section-2 .u-btn-6 {
@@ -1555,6 +1531,7 @@
 
 .u-section-3 .u-accordion-pane-4 {
   background-image: none;
+  min-height: 171px;
 }
 
 .u-section-3 .u-container-layout-4 {
@@ -1574,7 +1551,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   background-image: none;
-  margin: 20px auto 0 68px;
+  margin: 20px auto 0;
 }
 
 .u-section-3 .u-accordion-link-5 {
@@ -1831,6 +1808,10 @@
     margin-right: initial;
     margin-left: initial;
     width: auto;
+  }
+
+  .u-section-3 .u-btn-8 {
+    margin-left: 68px;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 415px;
