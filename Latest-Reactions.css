@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 656px;
+  min-height: 658px;
 }
 
 .u-section-1 .u-image-1 {
@@ -24,7 +24,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   animation-duration: 1000ms;
-  margin: 30px auto 0 493px;
+  margin: 30px auto 0;
 }
 
 .u-section-1 .u-btn-3 {
@@ -33,7 +33,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   animation-duration: 1000ms;
-  margin: 30px auto 49px 475px;
+  margin: 30px auto 51px;
 }
 
 @media (max-width: 1199px) {
