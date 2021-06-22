@@ -873,7 +873,7 @@
 
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 440px;
+    min-height: 445px;
   }
 
   .u-section-4 .u-image-1 {
@@ -898,7 +898,7 @@
   }
 
   .u-section-4 .u-btn-3 {
-    margin-right: 0;
+    margin-right: 78px;
   }
 
   .u-section-4 .u-btn-4 {
@@ -910,7 +910,7 @@
   }
 
   .u-section-4 .u-btn-6 {
-    margin-right: 0;
+    margin-right: 82px;
   }
 }
 
@@ -928,10 +928,12 @@
   }
 
   .u-section-4 .u-image-3 {
-    margin-left: 410px;
+    margin-top: 206px;
+    margin-left: auto;
   }
 
   .u-section-4 .u-btn-1 {
+    margin-top: -351px;
     margin-left: 440px;
   }
 
@@ -939,12 +941,24 @@
     margin-left: 88px;
   }
 
+  .u-section-4 .u-btn-3 {
+    margin-top: 333px;
+    margin-right: auto;
+  }
+
   .u-section-4 .u-btn-4 {
+    margin-top: -350px;
     margin-left: 462px;
   }
 
   .u-section-4 .u-btn-5 {
     margin-left: 110px;
+  }
+
+  .u-section-4 .u-btn-6 {
+    margin-top: 331px;
+    margin-right: auto;
+    margin-bottom: 34px;
   }
 }
 
@@ -954,40 +968,87 @@
   }
 
   .u-section-4 .u-image-1 {
+    margin-top: 459px;
     margin-right: auto;
   }
 
   .u-section-4 .u-image-2 {
+    margin-top: -583px;
     margin-left: auto;
   }
 
   .u-section-4 .u-image-3 {
-    margin-left: 230px;
+    margin-top: 630px;
   }
 
   .u-section-4 .u-btn-1 {
+    margin-top: -773px;
     margin-left: auto;
   }
 
   .u-section-4 .u-btn-2 {
+    margin-top: 362px;
     margin-left: auto;
   }
 
+  .u-section-4 .u-btn-3 {
+    margin-top: 350px;
+  }
+
   .u-section-4 .u-btn-4 {
+    margin-top: -365px;
     margin-left: auto;
   }
 
   .u-section-4 .u-btn-5 {
+    margin-top: -446px;
     margin-left: auto;
+  }
+
+  .u-section-4 .u-btn-6 {
+    margin-top: 748px;
+    margin-bottom: 50px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1245px;
+    min-height: 1264px;
+  }
+
+  .u-section-4 .u-image-1 {
+    margin-top: 440px;
+  }
+
+  .u-section-4 .u-image-2 {
+    margin-top: -584px;
   }
 
   .u-section-4 .u-image-3 {
-    margin-left: 30px;
+    margin-top: 654px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: -789px;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-top: 364px;
+  }
+
+  .u-section-4 .u-btn-3 {
+    margin-top: 385px;
+  }
+
+  .u-section-4 .u-btn-4 {
+    margin-top: -809px;
+  }
+
+  .u-section-4 .u-btn-5 {
+    margin-top: 373px;
+  }
+
+  .u-section-4 .u-btn-6 {
+    margin-top: 385px;
   }
 }
