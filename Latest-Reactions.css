@@ -169,7 +169,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   animation-duration: 1000ms;
-  margin: 30px auto 51px 475px;
+  margin: 30px auto 51px;
 }
 
 @media (max-width: 1199px) {
