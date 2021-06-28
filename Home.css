@@ -233,7 +233,6 @@
 
   .u-section-2 .u-blog-1 {
     margin-bottom: 50px;
-    height: auto;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -262,10 +261,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-2 .u-blog-1 {
-    height: auto;
-  }
-
   .u-section-2 .u-image-1 {
     height: 168px;
     width: 320px;
