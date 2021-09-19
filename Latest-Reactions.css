@@ -16,7 +16,7 @@
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 30px 60px;
+  padding: 30px;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -102,11 +102,6 @@
 
   .u-section-1 .u-image-1 {
     min-height: 128px;
-  }
-
-  .u-section-1 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -855,7 +850,7 @@
 .u-section-5 .u-image-1 {
   min-height: 203px;
   pointer-events: auto;
-  background-image: url("images/CowboyBebopThumbnail1.jpg");
+  background-image: url("images/CowboyBebopThumbnail3.jpg");
   background-position: 50% 50%;
 }
 
@@ -1066,7 +1061,7 @@
 .u-section-6 .u-image-1 {
   min-height: 203px;
   pointer-events: auto;
-  background-image: url("images/CowboyBebopThumbnail22.jpg");
+  background-image: url("images/CowboyBebopThumbnail4.jpg");
   background-position: 50% 50%;
 }
 
