@@ -11,12 +11,12 @@
 .u-section-1 .u-image-1 {
   min-height: 203px;
   pointer-events: auto;
-  background-image: url("images/OnePieceReactionThumbnail22.jpg");
+  background-image: url("images/OnePieceReactionThumbnail24.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 30px;
+  padding: 30px 60px;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -102,6 +102,11 @@
 
   .u-section-1 .u-image-1 {
     min-height: 128px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
   }
 
   .u-section-1 .u-layout-cell-2 {
