@@ -222,7 +222,7 @@
 .u-section-2 .u-image-1 {
   min-height: 203px;
   pointer-events: auto;
-  background-image: url("images/HunterXHunterReactionThumbnail8.jpg");
+  background-image: url("images/OnePieceReactionThumbnail27.jpg");
   background-position: 50% 50%;
 }
 
@@ -433,7 +433,7 @@
 .u-section-3 .u-image-1 {
   min-height: 203px;
   pointer-events: auto;
-  background-image: url("images/HaikyuuReactionThumbnail4.jpg");
+  background-image: url("images/HunterXHunterReactionThumbnail8.jpg");
   background-position: 50% 50%;
 }
 
@@ -627,6 +627,217 @@
   }
 
   .u-section-3 .u-text-1 {
+    font-size: 1.5rem;
+    width: 203px;
+    margin-top: -70px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 242px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  pointer-events: auto;
+  margin-top: 20px;
+  margin-bottom: 19px;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 203px;
+  pointer-events: auto;
+  background-image: url("images/HaikyuuReactionThumbnail4.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 203px;
+  pointer-events: auto;
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 13px 60px;
+}
+
+.u-section-4 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 78px 11px 0 auto;
+  padding: 2px 35px 2px 33px;
+}
+
+.u-section-4 .u-btn-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: -30px 197px 0 auto;
+  padding: 2px 35px 2px 33px;
+}
+
+.u-section-4 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: -39px 394px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 207px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-bottom: 20px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 167px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 167px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: 96px;
+    margin-right: 48px;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-top: -80px;
+    margin-right: 40px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: auto;
+    margin-top: -12px;
+    margin-right: 256px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 194px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 128px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 154px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: 87px;
+    margin-right: 8px;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: -9px;
+    margin-right: 177px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 388px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 192px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 126px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-right: auto;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-top: -68px;
+    margin-right: auto;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 243px;
+    margin-top: -71px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 394px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 183px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 150px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: 97px;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-top: -75px;
+  }
+
+  .u-section-4 .u-text-1 {
     font-size: 1.5rem;
     width: 203px;
     margin-top: -70px;
