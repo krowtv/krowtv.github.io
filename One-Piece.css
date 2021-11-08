@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   background-image: none;
 }
 
@@ -153,7 +153,7 @@
   .u-section-2 .u-text-1 {
     width: 158px;
   }
-}.u-section-3 {
+} .u-section-3 {
   background-image: linear-gradient(to right, #1a1a1a, #72683f);
 }
 
@@ -330,7 +330,7 @@
   .u-section-3 .u-layout-cell-2 {
     min-height: 172px;
   }
-}.u-section-4 {
+} .u-section-4 {
   background-image: linear-gradient(40deg, #1a1a1a, #e9f2fa);
 }
 
@@ -494,7 +494,7 @@
     margin-top: -311px;
     margin-left: 0;
   }
-}.u-section-5 {
+} .u-section-5 {
   background-image: linear-gradient(to right, #1a1a1a, #425465);
 }
 
@@ -658,7 +658,7 @@
     margin-top: -311px;
     margin-left: 0;
   }
-}.u-section-6 {
+} .u-section-6 {
   background-image: linear-gradient(30deg, #1a1a1a, #5f1e68);
 }
 
@@ -822,7 +822,7 @@
     margin-top: -311px;
     margin-left: 0;
   }
-}.u-section-7 {
+} .u-section-7 {
   background-image: linear-gradient(to right, #1a1a1a, #db545a);
 }
 
@@ -986,7 +986,7 @@
     margin-top: -311px;
     margin-left: 0;
   }
-}.u-section-8 {
+} .u-section-8 {
   background-image: linear-gradient(to right, #1a1a1a, #2cccc4);
 }
 
@@ -1150,7 +1150,7 @@
     margin-top: -311px;
     margin-left: 0;
   }
-}.u-section-9 {
+} .u-section-9 {
   background-image: linear-gradient(30deg, #1a1a1a, #5f1e68);
 }
 
